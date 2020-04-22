@@ -16,3 +16,15 @@ function main() {
         console.error("You correctly declared 'PI' as a constant.");
     }
 }
+
+/**
+Sample Input 0
+
+2.6
+
+Sample Output 0
+
+21.237166338267002
+16.336281798666924
+
+**/
